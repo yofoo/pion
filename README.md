@@ -1,7 +1,7 @@
 Pion Core staging tree 0.12.3
 ===============================
 
-https://www.pioncoin.org
+[https://github.com/pioncoin/pion]
 
 
 What is Pion?
